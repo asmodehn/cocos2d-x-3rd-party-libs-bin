@@ -1,3 +1,5 @@
+ADD_DEFINITIONS (-D_USRDLL)
+
 set(UNZIP_SRC
   ioapi.cpp
   unzip.cpp

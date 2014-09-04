@@ -1,3 +1,5 @@
+ADD_DEFINITIONS (-D_USRDLL)
+
 set(TINYXML2_SRC
   tinyxml2.cpp
 )
